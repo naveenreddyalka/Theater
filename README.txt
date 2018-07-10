@@ -4,9 +4,10 @@ App.java is the Main class
 
 First full empty line will be used as end of seating arrangements
 Second full empty line will be used for end of tickets need to be booked 
+We print the theater before and after ticketing.
+Could have done more in tests, logging, layouts, tickets etc but in few hours this is what I could do.
 
 Below is the sample request and response.
-We print the theater before and after ticketing.
 
 
 Start theater : 6 6

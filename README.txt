@@ -2,7 +2,7 @@
 
 App.java is the Main class
 
-First full empty line will be used as end of seating arraignment
+First full empty line will be used as end of seating arrangements
 Second full empty line will be used for end of tickets need to be booked 
 
 Below is the sample request and response.
